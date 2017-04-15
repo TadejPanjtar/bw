@@ -1,0 +1,17 @@
+{
+  "name": "solution",
+  "version": "0.0.1",
+  "description": "In node doing gnu `cat exceptions.log | grep '^2016-08-24 16:52:49'`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tadej",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TadejPanjtar/bw.git"
+  },
+  "dependencies": {
+  }
+}
